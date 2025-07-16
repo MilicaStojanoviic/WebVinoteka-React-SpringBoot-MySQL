@@ -17,3 +17,9 @@ Lombok (pojednostavljenje koda)
 Tomcat (servlet kontejner)
 Maven (menadžer zavisnosti)
 
+Potrebne instalacije:
+MySQL 9.2.0 -> baza vinoteka, username i pass se mogu naci u properties fajlu na backendu
+MySQL Workbench 
+Za front: Node.js, npm
+Za back: Maven, JDK(23, ili promeni u pom fajlu i ProjectStructure-u da bi se koristila druga verzija)
+Okruzenje (VS Code, IntelliJ...)
